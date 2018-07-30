@@ -1,6 +1,6 @@
 <p style="text-align: center;"><span style="font-size: 20pt;"><strong>TradeCryptos</strong></span></p>
 <p><span style="font-size: 10pt;">Platform for trading cryptocurrencies.</span></p>
-You can check it out here: http://ec2-54-93-191-148.eu-central-1.compute.amazonaws.com/login
+You can check it out here: http://ec2-54-93-191-148.eu-central-1.compute.amazonaws.com
 <p>&nbsp;</p>
 <p><span style="font-size: 12pt;">Features:</span></p>
 <ul>
