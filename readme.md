@@ -1,4 +1,4 @@
-<p><span style="font-size: 15pt;"><strong>TradeCryptos</strong></span></p>
+<p style="text-align: center;"><span style="font-size: 20pt;"><strong>TradeCryptos</strong></span></p>
 <p><span style="font-size: 10pt;">Platform for trading cryptocurrencies.</span></p>
 <p>&nbsp;</p>
 <p><span style="font-size: 12pt;">Features:</span></p>
