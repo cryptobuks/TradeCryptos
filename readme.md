@@ -24,6 +24,5 @@
 
 ![Alt text](http://ec2-54-93-229-217.eu-central-1.compute.amazonaws.com/screenshots/6.JPG "Optional title")
 
-![Alt text](http://ec2-54-93-229-217.eu-central-1.compute.amazonaws.com/screenshots/7.png "Optional title")
 
 
