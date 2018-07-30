@@ -12,7 +12,7 @@
 <p><span style="font-size: 12pt;">Screenshots:</span></p>
 <p>&nbsp;</p>
 
-
+![Alt text](http://ec2-54-93-229-217.eu-central-1.compute.amazonaws.com/screenshots/dashboard.png"Optional title")
 ![Alt text](http://ec2-54-93-229-217.eu-central-1.compute.amazonaws.com/screenshots/1.JPG "Optional title")
 ![Alt text](http://ec2-54-93-229-217.eu-central-1.compute.amazonaws.com/screenshots/2.JPG "Optional title")
 ![Alt text](http://ec2-54-93-229-217.eu-central-1.compute.amazonaws.com/screenshots/3.JPG "Optional title")
